@@ -1,8 +1,23 @@
 # Number Enigma Game
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Developed Using](#developed-using)
+- [Features](#features)
+- [How .NET is Used in Application](#how-net-is-used-in-application)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Game in Action](#game-in-action)
+- [License](#license)
+
 #### Overview
 
-A simple number guessing game where the user has to guess a random number between 1 and 10.
+Welcome to the Number Enigma Game, a delightful C# console application that brings the excitement of guessing a random number between 1 and 10. Designed to entertain and challenge users, this game is perfect for a quick and enjoyable coding session.
+
+In the Number Enigma Game, players enter their name and engage in the thrill of guessing a randomly generated number within the specified range. The game offers a user-friendly experience with input validation for correct numeric guesses, providing clear instructions for both correct and incorrect attempts. Additionally, players have the option to play again, keeping the entertainment going.
+
+Whether you're a coding enthusiast looking for a fun project or a casual gamer seeking a quick challenge, the Number Enigma Game is a fantastic choice. Get ready to embark on a journey of guessing, learning, and, most importantly, having a great time with coding!
 
 #### Developed Using
 
@@ -26,7 +41,7 @@ A simple number guessing game where the user has to guess a random number betwee
   - `System.Random` for generating random numbers.
   - `System.Int32` for converting strings to integers.
 
-## Getting Started
+#### Getting Started
 
 To run the Number Enigma Game on your local machine, please follow the steps below:
 
@@ -52,6 +67,6 @@ To run the Number Enigma Game on your local machine, please follow the steps bel
 ![Screenshot of game #1](/images/image-1.PNG)
 ![Screenshot of game #2](/images/image-2.PNG)
 
-## License
+#### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/license/mit/) file for details.
