@@ -36,7 +36,7 @@ Whether you're a coding enthusiast looking for a fun project or a casual gamer s
 - Developed using `C#`, a primary language supported by the .NET framework.
 - Employing .NET Core's `dotnet` commands for building and running the application.
 - Leveraging the `Visual Studio Community IDE`, providing the potential for future expansion into a web application.
-- Making use of `standard .NET libraries`, including `System`` namespaces. For instance:
+- Making use of `standard .NET libraries`, including `System` namespaces. For instance:
   - `System.Console` for handling console input/output.
   - `System.Random` for generating random numbers.
   - `System.Int32` for converting strings to integers.
